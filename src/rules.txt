@@ -1,0 +1,63 @@
+PAC-MAN: SANDY SHORES - GUIDE
+
+Characters:
+Pac-Man:
+The main character of the game. Generally travels 
+around the map/maze running from enemies.
+
+Fish:
+Replaces the ghosts in the original version of 
+Pac-Man. They are the enemies that Pac-Man is 
+running from. There are four that exist 
+simultaneously, each a different colour. They 
+will be pink, blue, green and yellow. 
+
+The Maze:
+The maze is beach themed, and will be bordered 
+by ocean. Throughout the map, seashells, and 
+occasionally starfish, will be dispersed for 
+points. The fish will also be contained within 
+the maze. There will be access to leave and 
+re-enter the maze through the horizontal sides. 
+For example, leaving through the left will mean 
+re-entering through the right and vice versa. 
+
+Lives:
+When the game starts, Pac-Man will have 3 lives. 
+Everytime a fish catches Pac-Man in his regular 
+non-powerup state(more in the Powerup section), 
+Pac-Man will lose one life. 
+
+Powerups:
+In this spin-off of Pac-Man, the powerups will 
+come in the form of starfish. Each colour of 
+starfish will be valued differently score-wise. 
+Once collected, Pac-Man will be granted 1.5x 
+speed and the ability to eat the Fish for a total 
+of ten seconds. Once the time runs out, all 
+enhancements will be removed. Once the time of 
+the powerup runs out, the fish that were eaten 
+by Pac-Man will all respawn in the center of the map. 
+
+Scoring System:
+Seashells:
+Each seashell will be worth a randomly assigned value 
+between 5 and 50 points.
+
+Starfish:
+The yellow and green starfish will be the most common 
+and will be worth 100 points. 
+The blue starfish will be worth 150 points.
+The pink starfish will be the most rare, and will be 
+worth 200 points. 
+
+Fish(only applicable if powerup is in use):
+The first fish will be worth 200, and every fish 
+eaten after will double in value. (The second will be 
+400, the third will be 800, the fourth will be 1600)
+They reset each time a powerup is collected to 
+restart at a value of 200 points.
+
+Extra Life:
+Everytime 10 000 points have been collected, the user 
+will gain an extra life. 
