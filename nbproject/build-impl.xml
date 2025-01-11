@@ -29,7 +29,7 @@ is divided into following sections:
     </fail>
     <target depends="test,jar,javadoc" description="Build and test whole project." name="default"/>
   <target name="javadoc">
-    <javadoc source="11" destdir="${dist.javadoc.dir}" classpath="${run.classpath}">
+    <javadoc source="15" destdir="${dist.javadoc.dir}" classpath="${run.classpath}">
         <fileset dir="${src.dir}" includes="**/*.java"/>
     </javadoc>
 </target>
